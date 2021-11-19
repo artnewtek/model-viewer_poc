@@ -1,0 +1,23 @@
+{
+  "name": "model-viewer_poc",
+  "version": "1.0.0",
+  "description": "Test project for &lt;model-viewer> features",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artnewtek/model-viewer_poc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artnewtek/model-viewer_poc/issues"
+  },
+  "homepage": "https://github.com/artnewtek/model-viewer_poc#readme"
+}
